@@ -1,0 +1,6 @@
+E:\Dokumenter\GitHub\C#\Assoff\Assoff\bin\Debug\Assoff.exe.config
+E:\Dokumenter\GitHub\C#\Assoff\Assoff\bin\Debug\Assoff.exe
+E:\Dokumenter\GitHub\C#\Assoff\Assoff\bin\Debug\Assoff.pdb
+E:\Dokumenter\GitHub\C#\Assoff\Assoff\obj\Debug\Assoff.exe
+E:\Dokumenter\GitHub\C#\Assoff\Assoff\obj\Debug\Assoff.pdb
+E:\Dokumenter\GitHub\C#\Assoff\Assoff\obj\Debug\Assoff.csprojResolveAssemblyReference.cache
